@@ -2,7 +2,7 @@
 
 Collaborative online whiteboard app powered by React, Fabric.js, and Socket.io. Draw, annotate, and chat in real-time with teammates. Designed for education, remote meetings, and creative brainstorming.
 
-![SmartBoard Banner](https://github.com/JayGor-13/SmartBoard/raw/main/banner.png) <!-- Add banner if available -->
+![SmartBoard Banner](https://github.com/JayGor-13/SmartBoard/raw/main/Boardly logo.png) <!-- Add banner if available -->
 
 ---
 
